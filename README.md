@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a Japan's cllege student Nishino and study Blockchain and Flutter now! HAHAHA!
+### I'm a Japan's college student Nishino and study Blockchain and Flutter now! HAHAHA!
 ### I can use C,Nuxt,HTML,CSS,javascript and dart,solidity(chotdekiru).
 
 <!--
