@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm a Japan's college student Nishino and study Blockchain and Flutter now! HAHAHA!
-### I can use C,Nuxt,HTML,CSS,javascript and dart,solidity(chotdekiru).
+### I can use C,Nuxt,javascript,dart and solidity.
 
 <!--
 **Nishino0719/Nishino0719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
