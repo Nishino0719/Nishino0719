@@ -1,6 +1,9 @@
-### Hi there 👋
-### I'm a Japan's college student Nishino and study Blockchain and Flutter now! HAHAHA!
-### I can use C,Nuxt,javascript,dart and solidity.
+#### Hi there 👋
+#### やぁみんな👋
+#### I'm a Japan's college student Nishino and study Blockchain and Flutter now! HAHAHA!
+#### 私は日本の大学生の西野です。現在はブロックチェーンとFlutterを勉強しています！HAHAHA!
+#### I can use C,Nuxt,javascript,dart and solidity.
+#### 使用言語:C Nuxt javascript dart solidity
 
 <!--
 **Nishino0719/Nishino0719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
