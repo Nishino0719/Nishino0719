@@ -24,6 +24,3 @@ Here are some ideas to get you started:
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishino0719&layout=compact)
 
 
-### 実績
-#キャンプハッカソン2020/9/23~25
-https://youtu.be/S0WNXAtYiGk
