@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nishino0719)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Nishino0719) -->
-[![](https://raw.githubusercontent.com/Nishino0719/Nishino0719/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Nishino0719)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishino0719&layout=compact)
 
 
